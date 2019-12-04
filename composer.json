@@ -1,0 +1,19 @@
+{
+    "name": "lukapeharda/improvely",
+    "description": "Improvely API PHP SDK",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "6.3.*"
+    },
+    "authors": [
+        {
+            "name": "Luka Peharda",
+            "email": "luka.peharda@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LukaPeharda\\Improvely\\" : "src/"
+        }
+    }
+}
