@@ -38,3 +38,7 @@ $params = [
 $response = $client->record($params);
 ...
 ```
+
+### Other API endpoints
+
+So far only conversions have been implemented. For other actions do submit an issue or do a pull request. Thank you.
